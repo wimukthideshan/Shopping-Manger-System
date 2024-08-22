@@ -1,0 +1,8 @@
+Electronics,12,dg,12,100.0,df,2
+Electronics,123,phone,12,450.0,apple,1
+Clothing,12as,shirt,12,23.0,large,black
+Electronics,ew3,er4,23,45.0,fgfs,56
+Electronics,fdg,radio,8,340.0,sony,2
+Clothing,hgj,hoodie,9,697.0,medium,blue
+Clothing,ss12,trouser,4,129.0,34,inches
+Clothing,df,gh,1,12.0,5,black
